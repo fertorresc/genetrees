@@ -1,4 +1,4 @@
-# Copy of Gene tree w aa input file work flow
+# Gene tree w aa input file work flow
 
 1. ## Rename codificant sequences
 
@@ -85,5 +85,5 @@ done
    - Min sequence length: 300
    - % Pairwise Identiti: > 90%
 
-   ## **Results:**
+   ## **Results in repository**
 
